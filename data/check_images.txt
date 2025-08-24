@@ -1,0 +1,19 @@
+Questions regarding Uploaded Image Classification:
+
+1. Did the three model architectures classify the breed of dog in Dog_01.jpg to be the same breed? If not, report the differences in the classifications.
+
+Answer: yes the three model architectures classify photo of  papillon_01.jpg  as one breed who is (papillon) thus there is no differences in model classifications
+
+
+2. Did each of the three model architectures classify the breed of dog in Dog_01.jpg to be the same breed of dog as that model architecture classified Dog_02.jpg? If not, report the differences in the classifications.
+
+Answer: yes every model classify between (papillon_01.jpg and (papillon_02.jpg reversd one)) as the same breed , thus that mean how is the classifications  is stabilty and accuracy between the original photo and reversecd one
+
+
+3. Did the three model architectures correctly classify Animal_Name_01.jpg and Object_Name_01.jpg to not be dogs? If not, report the misclassifications.
+
+Answer: yes all of the model classify photo who is not dog (horse_01.jpg and tea_01.jpg ) correctly thats not a dogs like horse_01.jpg photo classify as (sorrel type) and tea_01.jpg photo classify as (cup and beaker type ) thats mean its not classify as dog type
+
+4. Based upon your answers for questions 1. - 3. above, select the model architecture that you feel did the best at classifying the four uploaded images. Describe why you selected that model architecture as the best on uploaded image classification.
+
+Answer: all of model have simmilar performs in this trial with 100% correct classification like all dogs breed classified correctly and the another whos not dogs classified correctly too , I conseder VGG to be the best model because its known for its consistently achieving the highest accuracy in dog breed classification across larger datasets, as shown in the project reference results
