@@ -27,17 +27,32 @@ You need to use an already developed Python classifier to make sure the particip
 - Compare the performance of three CNN models: AlexNet, VGG, and ResNet.
 - Evaluate the accuracy and runtime of each model.
 
+## 🛠️How to run it
+To execute the script, run the following command in your terminal:
+
+ `python check_images.py`
+
+To execute the script with different model architectures, use the following commands in your terminal:
+
+`python check_images.py --dir pet_images/ --arch resnet  --dogfile dognames.txt`
+  
+`python check_images.py --dir pet_images/ --arch alexnet  --dogfile dognames.txt` 
+
+`python check_images.py --dir pet_images/ --arch vgg  --dogfile dognames.txt `
+
+Each command runs the script using a different CNN model (resnet, alexnet, or vgg) to classify the pet images.
+
 ## 📦Submission Results & Feedback
 
 - Successfully implemented the image classification system using pre-trained CNN models (AlexNet, VGG, ResNet).
 - Achieved accurate identification of dogs vs. non-dogs with an accuracy of 100%.
 - Runtime performance was measured, showing a trade-off between speed and accuracy.
 
-<img width="837" height="577" alt="result" src="https://github.com/user-attachments/assets/25ad36d2-a358-4005-bedc-02c425a05c13" />
+<img width="500" height="300" alt="result" src="https://github.com/user-attachments/assets/25ad36d2-a358-4005-bedc-02c425a05c13" />
 
 
 
-<img width="839" height="687" alt="feedback" src="https://github.com/user-attachments/assets/fe88f16f-281c-49b7-a268-505b6d8fe80b" />
+<img width="500" height="300" alt="feedback" src="https://github.com/user-attachments/assets/fe88f16f-281c-49b7-a268-505b6d8fe80b" />
 
 
 
