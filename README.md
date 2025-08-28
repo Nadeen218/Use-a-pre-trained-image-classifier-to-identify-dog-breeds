@@ -48,11 +48,11 @@ Each command runs the script using a different CNN model (resnet, alexnet, or vg
 - Achieved accurate identification of dogs vs. non-dogs with an accuracy of 100%.
 - Runtime performance was measured, showing a trade-off between speed and accuracy.
 
-<img width="500" height="300" alt="result" src="https://github.com/user-attachments/assets/25ad36d2-a358-4005-bedc-02c425a05c13" />
+<img width="800" height="500" alt="result" src="https://github.com/user-attachments/assets/25ad36d2-a358-4005-bedc-02c425a05c13" />
 
 
 
-<img width="500" height="300" alt="feedback" src="https://github.com/user-attachments/assets/fe88f16f-281c-49b7-a268-505b6d8fe80b" />
+<img width="800" height="600" alt="feedback" src="https://github.com/user-attachments/assets/fe88f16f-281c-49b7-a268-505b6d8fe80b" />
 
 
 
